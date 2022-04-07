@@ -1,7 +1,6 @@
 # Ishmael
 Yet another KV storage with rich schema.
 
-=== 
 
 ## Bootstrap 🚀🚀🚀
 
